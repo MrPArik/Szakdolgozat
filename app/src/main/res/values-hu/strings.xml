@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Fotoalbum</string>
+    <string name="menu_open">Open</string>
+    <string name="menu_close">Close</string>
+
+    <string-array name="Cim_Stilus_Szoveg">
+        <item>Arany színű</item>
+        <item>Ezüst színű</item>
+        <item>Rozé arany színű</item>
+        <item>Kék színű</item>
+        <item>Fekete színű</item>
+        <item>Rózsaszín színű</item>
+        <item>Bézs színű</item>
+    </string-array>
+
+    <string-array name="Formatum_Szoveg">
+        <item> Két képes oldal </item>
+        <item>Három képes oldal</item>
+        <item>Három képes oldal fordítva</item>
+        <item>Negykepes oldal</item>
+    </string-array>
+
+
+    <string-array name="Stilus_Szoveg">
+        <item>Fekete háttér</item>
+        <item>Barna háttér</item>
+        <item>Szürke háttér</item>
+        <item>Fehér háttér</item>
+        <item>Rózsaszín háttér</item>
+        <item>Világos kék háttér</item>
+        <item>Fehér háttér ezüst keret</item>
+    </string-array>
+
+    <string name="be_email">Email </string>
+    <string name="be_jelszo">Jelszó </string>
+    <string name="be_jelenkezes">Bejelentkezés </string>
+    <string name="be_reg">Regisztrálás </string>
+    <string name="k_rem_adja_meg_a_c_m_st_lus_t">Kérem adja meg a cím stílusát</string>
+    <string name="nyelv">Nyelv</string>
+    <string name="felhaszn_l">Email</string>
+    <string name="jelsz">jelszó</string>
+    <string name="regisztr_cio">Regisztrácio</string>
+    <string name="vissza_a_bejelentkez_shez">Vissza a bejelentkezéshez</string>
+    <string name="tov_bb">Tovább</string>
+    <string name="szerkeszt">Szerkeszt</string>
+    <string name="befejez_s">Befejezés</string>
+    <string name="kezd_oldal">Kezdőoldal</string>
+    <string name="fot_k_nyvk_sz_t_s">Fotókönyvkészítés</string>
+    <string name="fot_k_nyv_gener_l_sa">Fotókönyv generálása</string>
+    <string name="k_rem_adaja_meg_a_formatumot">Kérem adaja meg a formatumot</string>
+    <string name="szoveg">Szoveg</string>
+    <string name="szoveg1">Oldal szam</string>
+    <string name="k_rem_adja_meg_a_projekt_nev_t">Kérem adja meg a projekt nevét és oldalszámát max 9</string>
+    <string name="projektek">Projektek</string>
+    <string name="k_rem_adja_meg_az_oldal_st_lus_t">Kérem adja meg az oldal stílusát</string>
+    <string name="name">Cim</string>
+    <string name="gener_l_s">Generálás</string>
+    <string name="f_oldal">Főoldal</string>
+    <string name="projektekek">Projektek</string>
+    <string name="language_nyelv">Nyelv</string>
+    <string name="kijelentkez_s">Kijelentkezés</string>
+
+
+</resources>

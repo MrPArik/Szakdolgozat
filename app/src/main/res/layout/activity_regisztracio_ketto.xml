@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="10dp"
+    android:background="@drawable/hatter"
+    tools:context=".Regisztracio_ketto">
+
+
+    <EditText
+        android:id="@+id/Felhasznalo_masodikmodszer"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginStart="10dp"
+        android:layout_marginTop="68dp"
+        android:layout_marginEnd="10dp"
+        android:backgroundTint="#FFFFFF"
+        android:hint="@string/felhaszn_l"
+        android:shadowColor="#FFFFFF"
+        android:textColor="#FFFFFF"
+        android:textColorHint="#FFFFFF" />
+
+    <EditText
+        android:id="@+id/Jelszo_masodikmodszer"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/Felhasznalo_masodikmodszer"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginStart="10dp"
+        android:layout_marginTop="50dp"
+        android:layout_marginEnd="10dp"
+        android:backgroundTint="#FFFFFF"
+        android:hint="@string/jelsz"
+        android:shadowColor="#FFFFFF"
+        android:textColor="#FFFFFF"
+        android:textColorHint="#FFFFFF" />
+
+    <Button
+        android:id="@+id/Regisztraciogomb_masodikmodszer"
+        android:layout_width="match_parent"
+        android:layout_height="50sp"
+        android:layout_below="@+id/Jelszo_masodikmodszer"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginStart="10dp"
+        android:layout_marginTop="133dp"
+        android:layout_marginEnd="10dp"
+        android:backgroundTint="#778899"
+        android:text="@string/regisztr_cio"
+        android:textColor="#FFFFFF" />
+
+    <Button
+        android:id="@+id/Bejelentkezesgomb_masodikmodszer"
+        android:layout_width="match_parent"
+        android:layout_height="50sp"
+        android:layout_below="@id/Regisztraciogomb_masodikmodszer"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginStart="10dp"
+        android:layout_marginTop="60dp"
+        android:layout_marginEnd="10dp"
+        android:backgroundTint="#778899"
+        android:text="@string/vissza_a_bejelentkez_shez"
+        android:textColor="#FFFFFF" />
+
+
+</RelativeLayout>

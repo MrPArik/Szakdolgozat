@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Fotoalbum</string>
+    <string name="menu_open">Open</string>
+    <string name="menu_close">Close</string>
+
+    <string-array name="Cim_Stilus_Szoveg">
+        <item>Golden</item>
+        <item>Silver</item>
+        <item>Rose gold</item>
+        <item>Blue</item>
+        <item>Black</item>
+        <item>Pink</item>
+        <item>Beige</item>
+    </string-array>
+
+    <string-array name="Formatum_Szoveg">
+        <item> Two picture page </item>
+        <item>Three picture page</item>
+        <item>Inverz three picture page</item>
+        <item>Four picture page</item>
+    </string-array>
+
+
+    <string-array name="Stilus_Szoveg">
+        <item>Black background</item>
+        <item>Brown background</item>
+        <item>Grey background</item>
+        <item>White background</item>
+        <item>Pink background</item>
+        <item>Light blue background</item>
+        <item>White backgroung with grey frame </item>
+    </string-array>
+
+    <string name="be_email">Email </string>
+    <string name="be_jelszo">Password </string>
+    <string name="be_jelenkezes">Login </string>
+    <string name="be_reg">Sign up </string>
+    <string name="k_rem_adja_meg_a_c_m_st_lus_t">Please select the title style</string>
+    <string name="nyelv">Languages</string>
+    <string name="felhaszn_l">Email</string>
+    <string name="jelsz">Password</string>
+    <string name="regisztr_cio">Sing up</string>
+    <string name="vissza_a_bejelentkez_shez">Return to login</string>
+    <string name="tov_bb">Next</string>
+    <string name="szerkeszt">Edit</string>
+    <string name="befejez_s">End</string>
+    <string name="kezd_oldal">Home page</string>
+    <string name="fot_k_nyvk_sz_t_s">Make a photobook</string>
+    <string name="fot_k_nyv_gener_l_sa">Generate a photobook</string>
+    <string name="k_rem_adaja_meg_a_formatumot">Please select the format</string>
+    <string name="szoveg">Text</string>
+    <string name="szoveg1">Page number</string>
+    <string name="k_rem_adja_meg_a_projekt_nev_t">Please write the title and the page number max 9</string>
+    <string name="projektek">Projects</string>
+    <string name="k_rem_adja_meg_az_oldal_st_lus_t">Please select the page style</string>
+    <string name="name">Title</string>
+    <string name="gener_l_s">Generate</string>
+    <string name="f_oldal">Homepage</string>
+    <string name="projektekek">Projects</string>
+    <string name="language_nyelv">Language</string>
+    <string name="kijelentkez_s">Log out</string>
+</resources>

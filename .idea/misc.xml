@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Szakdoga program/app/src/main/res/drawable/ic_folder.xml" value="0.2703125" />
+        <entry key="..\:/Szakdoga program/app/src/main/res/drawable/ic_tick_point.xml" value="0.14635416666666667" />
+        <entry key="..\:/Szakdoga program/app/src/main/res/layout/activity_bejelentkezes.xml" value="0.25416666666666665" />
+        <entry key="..\:/Szakdoga program/app/src/main/res/layout/activity_borito_recyclerview.xml" value="0.22509057971014493" />
+        <entry key="..\:/Szakdoga program/app/src/main/res/layout/activity_cim_selection_rv.xml" value="0.2" />
+        <entry key="..\:/Szakdoga program/app/src/main/res/layout/activity_cim_stilus_recyclerview.xml" value="0.264" />
+        <entry key="..\:/Szakdoga program/app/src/main/res/layout/activity_elso_oldal.xml" value="0.264" />
+        <entry key="..\:/Szakdoga program/app/src/main/res/layout/activity_fharom_kepes_oldal.xml" value="0.16757246376811594" />
+        <entry key="..\:/Szakdoga program/app/src/main/res/layout/activity_fooldal.xml" value="0.25416666666666665" />
+        <entry key="..\:/Szakdoga program/app/src/main/res/layout/activity_formatum_adapter.xml" value="0.2296195652173913" />
+        <entry key="..\:/Szakdoga program/app/src/main/res/layout/activity_formatum_recyclerview.xml" value="0.2296195652173913" />
+        <entry key="..\:/Szakdoga program/app/src/main/res/layout/activity_fotokonyv1.xml" value="0.25416666666666665" />
+        <entry key="..\:/Szakdoga program/app/src/main/res/layout/activity_fotokonyv_elso_oldal.xml" value="0.14947916666666666" />
+        <entry key="..\:/Szakdoga program/app/src/main/res/layout/activity_harom_kepes_oldal.xml" value="0.176" />
+        <entry key="..\:/Szakdoga program/app/src/main/res/layout/activity_ket_kepes_oldal.xml" value="0.16" />
+        <entry key="..\:/Szakdoga program/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Szakdoga program/app/src/main/res/layout/activity_main2.xml" value="0.14947916666666666" />
+        <entry key="..\:/Szakdoga program/app/src/main/res/layout/activity_negy_kepes_oldal.xml" value="0.21784420289855072" />
+        <entry key="..\:/Szakdoga program/app/src/main/res/layout/activity_papir_recycler.xml" value="0.22509057971014493" />
+        <entry key="..\:/Szakdoga program/app/src/main/res/layout/activity_projekt_nev_megadas.xml" value="0.23867753623188406" />
+        <entry key="..\:/Szakdoga program/app/src/main/res/layout/activity_stilus_recyclerview.xml" value="0.22509057971014493" />
+        <entry key="..\:/Szakdoga program/app/src/main/res/layout/activity_utolso_oldal.xml" value="0.2" />
+        <entry key="..\:/Szakdoga program/app/src/main/res/layout/cim_stilus_rec_kinezet.xml" value="0.2427536231884058" />
+        <entry key="..\:/Szakdoga program/app/src/main/res/layout/cs_recycler_view.xml" value="0.2427536231884058" />
+        <entry key="..\:/Szakdoga program/app/src/main/res/layout/formatum_rec_kinezet.xml" value="0.2296195652173913" />
+        <entry key="..\:/Szakdoga program/app/src/main/res/layout/header_menu.xml" value="0.25416666666666665" />
+        <entry key="..\:/Szakdoga program/app/src/main/res/layout/item_cimstilus.xml" value="0.4" />
+        <entry key="..\:/Szakdoga program/app/src/main/res/layout/nav_header.xml" value="0.264" />
+        <entry key="..\:/Szakdoga program/app/src/main/res/layout/rec_kinezet.xml" value="0.22509057971014493" />
+        <entry key="..\:/Szakdoga program/app/src/main/res/menu/drawer_menu.xml" value="0.25416666666666665" />
+        <entry key="..\:/Szakdoga program/app/src/main/res/menu/main_menu.xml" value="0.25416666666666665" />
+        <entry key="..\:/Szakdoga program/app/src/main/res/menu/popup.xml" value="0.25416666666666665" />
+        <entry key="..\:/Szakdoga_program_version2/app/src/main/res/layout-land/activity_elso_oldal.xml" value="0.1859375" />
+        <entry key="..\:/Szakdoga_program_version2/app/src/main/res/layout-land/activity_elso_oldal_projektek.xml" value="0.10714285714285714" />
+        <entry key="..\:/Szakdoga_program_version2/app/src/main/res/layout-land/activity_fharom_kepes_oldal.xml" value="0.1859375" />
+        <entry key="..\:/Szakdoga_program_version2/app/src/main/res/layout-land/activity_harom_kepes_oldal.xml" value="0.1859375" />
+        <entry key="..\:/Szakdoga_program_version2/app/src/main/res/layout-land/activity_ket_kepes_oldal.xml" value="0.1859375" />
+        <entry key="..\:/Szakdoga_program_version2/app/src/main/res/layout-land/activity_ket_kepes_oldal_projektek.xml" value="0.1" />
+        <entry key="..\:/Szakdoga_program_version2/app/src/main/res/layout-land/activity_negy_kepes_oldal.xml" value="0.1859375" />
+        <entry key="..\:/Szakdoga_program_version2/app/src/main/res/layout-land/activity_utolso_oldal.xml" value="0.1859375" />
+        <entry key="..\:/Szakdoga_program_version2/app/src/main/res/layout/activity_elso_oldal.xml" value="0.2" />
+        <entry key="..\:/Szakdoga_program_version2/app/src/main/res/layout/activity_elso_oldal_projekt.xml" value="0.14739583333333334" />
+        <entry key="..\:/Szakdoga_program_version2/app/src/main/res/layout/activity_elso_oldal_projektek.xml" value="0.1265625" />
+        <entry key="..\:/Szakdoga_program_version2/app/src/main/res/layout/activity_fharom_kepes_oldal.xml" value="0.2" />
+        <entry key="..\:/Szakdoga_program_version2/app/src/main/res/layout/activity_fooldal.xml" value="0.19067028985507245" />
+        <entry key="..\:/Szakdoga_program_version2/app/src/main/res/layout/activity_formatum_recyclerview.xml" value="0.21467391304347827" />
+        <entry key="..\:/Szakdoga_program_version2/app/src/main/res/layout/activity_fotokonyv1.xml" value="0.21014492753623187" />
+        <entry key="..\:/Szakdoga_program_version2/app/src/main/res/layout/activity_harom_kepes_oldal.xml" value="0.16168478260869565" />
+        <entry key="..\:/Szakdoga_program_version2/app/src/main/res/layout/activity_ket_kepes_oldal.xml" value="0.4" />
+        <entry key="..\:/Szakdoga_program_version2/app/src/main/res/layout/activity_ket_kepes_oldal_projektek.xml" value="0.20833333333333334" />
+        <entry key="..\:/Szakdoga_program_version2/app/src/main/res/layout/activity_main.xml" value="0.22735507246376813" />
+        <entry key="..\:/Szakdoga_program_version2/app/src/main/res/layout/activity_negy_kepes_oldal.xml" value="0.16168478260869565" />
+        <entry key="..\:/Szakdoga_program_version2/app/src/main/res/layout/activity_projektek.xml" value="0.14739583333333334" />
+        <entry key="..\:/Szakdoga_program_version2/app/src/main/res/layout/activity_projektek_lista.xml" value="0.14739583333333334" />
+        <entry key="..\:/Szakdoga_program_version2/app/src/main/res/layout/activity_stilus_recyclerview.xml" value="0.14739583333333334" />
+        <entry key="..\:/Szakdoga_program_version2/app/src/main/res/layout/activity_utolso_oldal.xml" value="0.16168478260869565" />
+        <entry key="..\:/Szakdoga_program_version2/app/src/main/res/layout/projektek_listview_single.xml" value="0.14739583333333334" />
+        <entry key="..\:/Szakdoga_program_version2_11_02/app/src/main/res/layout-land/activity_elso_oldal.xml" value="0.2046875" />
+        <entry key="..\:/Szakdoga_program_version2_11_02/app/src/main/res/layout-land/activity_elso_oldal_projektek.xml" value="0.2046875" />
+        <entry key="..\:/Szakdoga_program_version2_11_02/app/src/main/res/layout-land/activity_fharom_kepes_oldal.xml" value="0.1247795414462081" />
+        <entry key="..\:/Szakdoga_program_version2_11_02/app/src/main/res/layout-land/activity_fharom_kepes_oldal_projekt.xml" value="0.1247795414462081" />
+        <entry key="..\:/Szakdoga_program_version2_11_02/app/src/main/res/layout-land/activity_harom_kepes_oldal.xml" value="0.1247795414462081" />
+        <entry key="..\:/Szakdoga_program_version2_11_02/app/src/main/res/layout-land/activity_harom_kepes_oldal_projektek.xml" value="0.1247795414462081" />
+        <entry key="..\:/Szakdoga_program_version2_11_02/app/src/main/res/layout-land/activity_ket_kepes_oldal.xml" value="0.2046875" />
+        <entry key="..\:/Szakdoga_program_version2_11_02/app/src/main/res/layout-land/activity_ket_kepes_oldal_projektek.xml" value="0.2046875" />
+        <entry key="..\:/Szakdoga_program_version2_11_02/app/src/main/res/layout-land/activity_negy_kepes_oldal.xml" value="0.2046875" />
+        <entry key="..\:/Szakdoga_program_version2_11_02/app/src/main/res/layout-land/activity_negy_kepes_oldal_projektek.xml" value="0.1247795414462081" />
+        <entry key="..\:/Szakdoga_program_version2_11_02/app/src/main/res/layout-land/activity_negy_kepes_projektek.xml" value="0.2046875" />
+        <entry key="..\:/Szakdoga_program_version2_11_02/app/src/main/res/layout-land/activity_utolso_oldal.xml" value="0.2046875" />
+        <entry key="..\:/Szakdoga_program_version2_11_02/app/src/main/res/layout-land/activity_utolso_oldal_projektek.xml" value="0.2046875" />
+        <entry key="..\:/Szakdoga_program_version2_11_02/app/src/main/res/layout/activity_elso_oldal.xml" value="0.17798913043478262" />
+        <entry key="..\:/Szakdoga_program_version2_11_02/app/src/main/res/layout/activity_elso_oldal_projektek.xml" value="0.17798913043478262" />
+        <entry key="..\:/Szakdoga_program_version2_11_02/app/src/main/res/layout/activity_fharom_kepes_oldal_projekt.xml" value="0.14739583333333334" />
+        <entry key="..\:/Szakdoga_program_version2_11_02/app/src/main/res/layout/activity_harom_kepes_oldal_projektek.xml" value="0.14739583333333334" />
+        <entry key="..\:/Szakdoga_program_version2_11_02/app/src/main/res/layout/activity_ket_kepes_oldal_projektek.xml" value="0.17798913043478262" />
+        <entry key="..\:/Szakdoga_program_version2_11_02/app/src/main/res/layout/activity_negy_kepes_oldal.xml" value="0.17798913043478262" />
+        <entry key="..\:/Szakdoga_program_version2_11_02/app/src/main/res/layout/activity_negy_kepes_oldal_projektek.xml" value="0.14739583333333334" />
+        <entry key="..\:/Szakdoga_program_version2_11_02/app/src/main/res/layout/activity_negy_kepes_projektek.xml" value="0.25416666666666665" />
+        <entry key="..\:/Szakdoga_program_version2_11_02/app/src/main/res/layout/activity_projekt_nev_megadas.xml" value="0.14739583333333334" />
+        <entry key="..\:/Szakdoga_program_version2_11_02/app/src/main/res/layout/activity_utolso_oldal.xml" value="0.17798913043478262" />
+        <entry key="..\:/Szakdoga_program_version2_11_02/app/src/main/res/layout/activity_utolso_oldal_projektek.xml" value="0.17798913043478262" />
+        <entry key="..\:/Szakdoga_program_version2_11_02/app/src/main/res/layout/activity_varazslo.xml" value="0.16666666666666666" />
+        <entry key="..\:/Szakdoga_program_version2_11_07/app/src/main/res/layout-land/activity_elso_oldal.xml" value="0.16" />
+        <entry key="..\:/Szakdoga_program_version2_11_07/app/src/main/res/layout-land/activity_elso_oldal_projektek.xml" value="0.15986842105263158" />
+        <entry key="..\:/Szakdoga_program_version2_11_07/app/src/main/res/layout-land/activity_fharom_kepes_oldal.xml" value="0.14791666666666667" />
+        <entry key="..\:/Szakdoga_program_version2_11_07/app/src/main/res/layout-land/activity_fharom_kepes_oldal_projekt.xml" value="0.14638157894736842" />
+        <entry key="..\:/Szakdoga_program_version2_11_07/app/src/main/res/layout-land/activity_harom_kepes_oldal.xml" value="0.14791666666666667" />
+        <entry key="..\:/Szakdoga_program_version2_11_07/app/src/main/res/layout-land/activity_harom_kepes_oldal_projektek.xml" value="0.14638157894736842" />
+        <entry key="..\:/Szakdoga_program_version2_11_07/app/src/main/res/layout-land/activity_ket_kepes_oldal.xml" value="0.14791666666666667" />
+        <entry key="..\:/Szakdoga_program_version2_11_07/app/src/main/res/layout-land/activity_ket_kepes_oldal_projektek.xml" value="0.14638157894736842" />
+        <entry key="..\:/Szakdoga_program_version2_11_07/app/src/main/res/layout-land/activity_negy_kepes_oldal.xml" value="0.14791666666666667" />
+        <entry key="..\:/Szakdoga_program_version2_11_07/app/src/main/res/layout-land/activity_negy_kepes_projektek.xml" value="0.14638157894736842" />
+        <entry key="..\:/Szakdoga_program_version2_11_07/app/src/main/res/layout-land/activity_utolso_oldal.xml" value="0.15986842105263158" />
+        <entry key="..\:/Szakdoga_program_version2_11_07/app/src/main/res/layout-land/activity_utolso_oldal_projektek.xml" value="0.14638157894736842" />
+        <entry key="..\:/Szakdoga_program_version2_11_07/app/src/main/res/layout/activity_bejelentkezes.xml" value="0.176" />
+        <entry key="..\:/Szakdoga_program_version2_11_07/app/src/main/res/layout/activity_cim_stilus_recyclerview.xml" value="0.16052631578947368" />
+        <entry key="..\:/Szakdoga_program_version2_11_07/app/src/main/res/layout/activity_elso_oldal.xml" value="0.14739583333333334" />
+        <entry key="..\:/Szakdoga_program_version2_11_07/app/src/main/res/layout/activity_elso_oldal_projektek.xml" value="0.16052631578947368" />
+        <entry key="..\:/Szakdoga_program_version2_11_07/app/src/main/res/layout/activity_fharom_kepes_oldal.xml" value="0.12360688956433637" />
+        <entry key="..\:/Szakdoga_program_version2_11_07/app/src/main/res/layout/activity_fooldal.xml" value="0.176" />
+        <entry key="..\:/Szakdoga_program_version2_11_07/app/src/main/res/layout/activity_formatum_recyclerview.xml" value="0.16" />
+        <entry key="..\:/Szakdoga_program_version2_11_07/app/src/main/res/layout/activity_fotokonyv1.xml" value="0.16052631578947368" />
+        <entry key="..\:/Szakdoga_program_version2_11_07/app/src/main/res/layout/activity_harom_kepes_oldal.xml" value="0.12360688956433637" />
+        <entry key="..\:/Szakdoga_program_version2_11_07/app/src/main/res/layout/activity_harom_kepes_oldal_projektek.xml" value="0.15198087431693988" />
+        <entry key="..\:/Szakdoga_program_version2_11_07/app/src/main/res/layout/activity_ket_kepes_oldal.xml" value="0.12360688956433637" />
+        <entry key="..\:/Szakdoga_program_version2_11_07/app/src/main/res/layout/activity_ket_kepes_oldal_projektek.xml" value="0.15198087431693988" />
+        <entry key="..\:/Szakdoga_program_version2_11_07/app/src/main/res/layout/activity_main.xml" value="0.16052631578947368" />
+        <entry key="..\:/Szakdoga_program_version2_11_07/app/src/main/res/layout/activity_main2.xml" value="0.16052631578947368" />
+        <entry key="..\:/Szakdoga_program_version2_11_07/app/src/main/res/layout/activity_negy_kepes_oldal.xml" value="0.12360688956433637" />
+        <entry key="..\:/Szakdoga_program_version2_11_07/app/src/main/res/layout/activity_negy_kepes_projektek.xml" value="0.15198087431693988" />
+        <entry key="..\:/Szakdoga_program_version2_11_07/app/src/main/res/layout/activity_projekt_nev_megadas.xml" value="0.16052631578947368" />
+        <entry key="..\:/Szakdoga_program_version2_11_07/app/src/main/res/layout/activity_projektek.xml" value="0.16052631578947368" />
+        <entry key="..\:/Szakdoga_program_version2_11_07/app/src/main/res/layout/activity_projektek_lista.xml" value="0.16052631578947368" />
+        <entry key="..\:/Szakdoga_program_version2_11_07/app/src/main/res/layout/activity_stilus_recyclerview.xml" value="0.16052631578947368" />
+        <entry key="..\:/Szakdoga_program_version2_11_07/app/src/main/res/layout/activity_utolso_oldal.xml" value="0.16052631578947368" />
+        <entry key="..\:/Szakdoga_program_version2_11_07/app/src/main/res/layout/activity_utolso_oldal_projektek.xml" value="0.15198087431693988" />
+        <entry key="..\:/Szakdoga_program_version2_11_07/app/src/main/res/layout/activity_varazslo.xml" value="0.16052631578947368" />
+        <entry key="..\:/Szakdoga_program_version2_11_07/app/src/main/res/layout/header_menu.xml" value="0.16052631578947368" />
+        <entry key="..\:/Szakdoga_program_version2_11_07/app/src/main/res/layout/rec_kinezet.xml" value="0.16052631578947368" />
+        <entry key="..\:/Szakdoga_program_version2_11_07/app/src/main/res/menu/main_menu.xml" value="0.16052631578947368" />
+        <entry key="..\:/Szakdoga_program_version2_11_07/app/src/main/res/menu/popup_menu.xml" value="0.16052631578947368" />
+        <entry key="..\:/stakdoga 12_23/app/src/main/res/layout-land/activity_elso_oldal_projektek.xml" value="0.13914473684210527" />
+        <entry key="..\:/stakdoga 12_23/app/src/main/res/layout-land/activity_harom_kepes_oldal_projektek.xml" value="0.1" />
+        <entry key="..\:/stakdoga 12_23/app/src/main/res/layout-land/activity_ket_kepes_oldal_projektek.xml" value="0.1810989010989011" />
+        <entry key="..\:/stakdoga 12_23/app/src/main/res/layout-land/activity_negy_kepes_projektek.xml" value="0.1" />
+        <entry key="..\:/stakdoga 12_23/app/src/main/res/layout/activity_elso_oldal_projektek.xml" value="0.152" />
+        <entry key="..\:/stakdoga 12_23/app/src/main/res/layout/activity_ket_kepes_oldal_projektek.xml" value="0.1" />
+        <entry key="..\:/stakdoga 12_23/app/src/main/res/layout/activity_negy_kepes_projektek.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

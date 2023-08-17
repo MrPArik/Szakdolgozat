@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_fooldal"
+            android:icon="@drawable/haz"
+            android:title="@string/f_oldal" />
+        <item
+            android:id="@+id/nav_projektek"
+            android:icon="@drawable/ic_folder"
+            android:title="@string/projektekek" />
+        <item
+            android:id="@+id/nav_profil"
+            android:icon="@drawable/ic_baseline_language_24"
+            android:title="@string/language_nyelv" />
+
+
+    </group>
+    <group android:checkableBehavior="single">
+        <item android:title="Hitelesítés">
+            <menu>
+                <group android:checkableBehavior="single">
+                    <item
+                        android:id="@+id/nav_kijelentkezes"
+                        android:icon="@drawable/ic_login"
+                        android:title="@string/kijelentkez_s" />
+
+                </group>
+
+
+            </menu>
+
+        </item>
+
+    </group>
+
+</menu>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "722906401196",
+    "project_id": "szakdogakepek",
+    "storage_bucket": "szakdogakepek.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:722906401196:android:b6674cd7e6f27094a65209",
+        "android_client_info": {
+          "package_name": "com.example.fotoalbum"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "722906401196-sbp4n3bk3du95m1bp7rcb857ipi3vu8c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcPy2iVBP3-cvwaxLOefIZbiylmNnFfyY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "722906401196-sbp4n3bk3du95m1bp7rcb857ipi3vu8c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
